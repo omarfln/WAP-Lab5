@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 function max(a,b){
     if (b >a){
         return b;
